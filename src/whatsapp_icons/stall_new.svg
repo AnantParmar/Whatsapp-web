@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="vector"
+   width="24"
+   height="24"
+   viewBox="0 0 66.461538 66.461538"
+   version="1.1"
+   sodipodi:docname="stall_new.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs57111" />
+  <sodipodi:namedview
+     id="namedview57109"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="30.923077"
+     inkscape:cx="13"
+     inkscape:cy="13.016169"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="vector" />
+  <path
+     fill="#ffffff"
+     d="M 41.807745,17.699746 H 10.744548 c -1.3136025,0 -2.3888567,1.075254 -2.3888567,2.388857 0,1.314498 1.0752542,2.389752 2.3888567,2.389752 H 42.80146 c -0.638881,-1.463242 -0.993715,-3.079707 -0.993715,-4.778609 z m 2.388857,7.168362 H 10.314446 c -1.1469378,0 -2.1263152,0.811816 -2.341366,1.911264 l -2.3897524,11.94697 c -0.2867345,1.482059 0.8369061,2.867344 2.342262,2.867344 h 0.4301017 v 11.947867 c 0,1.313602 1.0752542,2.388856 2.3888567,2.388856 h 19.116227 c 1.313603,0 2.388857,-1.075254 2.388857,-2.388856 V 41.593686 h 9.558113 v 11.947867 c 0,1.313602 1.075255,2.388856 2.389753,2.388856 1.313602,0 2.388856,-1.075254 2.388856,-2.388856 V 41.593686 h 0.430102 c 1.505356,0 2.628996,-1.385285 2.342262,-2.867344 L 47.143694,27.65212 C 46.010197,26.89765 45.012899,25.954114 44.196602,24.868108 Z M 27.471023,51.1518 H 13.1343 v -9.558114 h 14.336723 z"
+     fill-rule="1"
+     id="path_0"
+     style="stroke-width:0.896045" />
+  <path
+     fill="#ffffff"
+     d="m 53.754716,17.699746 m -7.168362,0 a 7.1683615,7.1683615 0 1 1 14.336723,0 7.1683615,7.1683615 0 1 1 -14.336723,0"
+     id="path_1"
+     style="stroke-width:0.896045" />
+</svg>

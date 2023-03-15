@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 24 24"
+   width="24"
+   preserveAspectRatio="xMidYMid"
+   class=""
+   fill="none"
+   version="1.1"
+   id="svg2322"
+   sodipodi:docname="add.svg"
+   height="24"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2326" />
+  <sodipodi:namedview
+     id="namedview2324"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="31.584103"
+     inkscape:cx="7.4404519"
+     inkscape:cy="9.6725875"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2322" />
+  <path
+     d="m 2.3757269,12.91332 c -0.5081791,-0.508185 -0.4973998,-1.327899 0.01128,-1.836587 0.2491542,-0.249152 0.5708807,-0.3842 0.9236558,-0.363618 l 7.387801,-0.02439 0.014,-7.3774589 c -0.0102,-0.3631497 0.114478,-0.6745044 0.363617,-0.9236514 0.508686,-0.5086823 1.30764,-0.4986991 1.815822,0.00948 0.269639,0.2696483 0.38366,0.5497435 0.373123,0.9336743 l 0.0067,7.377435 7.398185,0.0067 c 0.415037,-1.99e-4 0.695201,0.113799 0.943989,0.362705 0.508229,0.508173 0.518181,1.327887 0.0095,1.836575 -0.249139,0.24914 -0.550026,0.363385 -0.923617,0.363619 l -7.398186,0.01405 -0.01393,7.377377 c 0.01019,0.363173 -0.114501,0.674597 -0.374048,0.934041 -0.508686,0.5087 -1.328397,0.519471 -1.846953,9.37e-4 -0.269639,-0.26963 -0.383625,-0.59124 -0.373065,-0.954413 l 0.0036,-7.367074 -7.3566699,0.01405 C 2.9566,13.307343 2.6453754,13.183008 2.3757269,12.91332 Z"
+     fill="#ffffff"
+     id="path2320"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.17077" />
+</svg>

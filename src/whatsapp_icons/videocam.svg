@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 23.999999 24"
+   height="24"
+   width="24"
+   preserveAspectRatio="xMidYMid"
+   class=""
+   version="1.1"
+   x="0px"
+   y="0px"
+   enable-background="new 0 0 16 14"
+   xml:space="preserve"
+   id="svg34619"
+   sodipodi:docname="videocam.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs34623" /><sodipodi:namedview
+   id="namedview34621"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="14.357143"
+   inkscape:cx="6.6169155"
+   inkscape:cy="17.726368"
+   inkscape:window-width="1920"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg34619" />
+    <path
+   fill="#ffffff"
+   d="M 22,5.9395417 17.195693,10.206816 V 7.0729717 C 17.195693,6.1659516 16.461241,5.4315 15.554221,5.4315 H 3.6414717 C 2.7344516,5.4315 2,6.1659516 2,7.0729717 v 9.8543523 c 0,0.90702 0.7344516,1.641472 1.6414717,1.641472 H 15.554221 c 0.90702,0 1.641472,-0.734452 1.641472,-1.641472 v -3.17388 L 22,18.019337 c 0,0 0,-12.0797953 0,-12.0797953 z"
+   id="path34617"
+   style="stroke-width:1.38055">
+    </path>
+</svg>

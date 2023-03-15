@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 28 35"
+   height="24"
+   width="24"
+   preserveAspectRatio="xMidYMid meet"
+   class=""
+   version="1.1"
+   id="svg13593"
+   sodipodi:docname="lock.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13597" />
+  <sodipodi:namedview
+     id="namedview13595"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="33.5"
+     inkscape:cx="12"
+     inkscape:cy="12.014925"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13593" />
+  <path
+     d="m 14.000078,2.9166667 c 4.010884,0 7.262349,3.2514649 7.262349,7.2623503 l -6.39e-4,2.461777 0.07417,0.0023 c 2.268097,0.09942 4.076387,1.969673 4.076387,4.262274 v 10.911583 c 0,2.356284 -1.910146,4.26643 -4.266431,4.26643 H 6.8542435 c -2.3562848,-4.8e-5 -4.266431,-1.910194 -4.266431,-4.266478 V 16.90532 c 0,-2.317367 1.8475694,-4.203211 4.1500498,-4.264874 l -1.354e-4,-2.461429 c 0,-4.0108854 3.2514649,-7.2623503 7.2623511,-7.2623503 z m 0,16.2037043 c -1.718952,0 -3.112437,1.450929 -3.112437,3.24074 0,1.789812 1.393485,3.240741 3.112437,3.240741 1.718949,0 3.112434,-1.450929 3.112434,-3.240741 0,-1.789811 -1.393485,-3.24074 -3.112434,-3.24074 z m 0,-12.9629635 c -2.228271,0 -4.0463594,1.7561924 -4.145645,3.9599545 l -0.00427,0.18996 -6.385e-4,2.330838 h 8.3002275 l 2.39e-4,-2.330838 c 0,-2.2919346 -1.85798,-4.1499145 -4.149913,-4.1499145 z"
+     fill="#ffffff"
+     id="path13591"
+     style="stroke-width:0.877867" />
+</svg>

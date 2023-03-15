@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="vector"
+   width="24"
+   height="24"
+   viewBox="0 0 23.999999 24.000001"
+   version="1.1"
+   sodipodi:docname="music_note.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11659" />
+  <sodipodi:namedview
+     id="namedview11657"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.5429689"
+     inkscape:cx="52.117014"
+     inkscape:cy="61.516417"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="vector" />
+  <path
+     fill="#ffffff"
+     d="m 17.823123,14.701363 c 0.445947,-0.07812 0.867481,-0.0651 1.236934,0.02116 V 6.0395673 L 9.8725642,8.6778182 V 18.760461 c 0.00488,0.05534 0.00814,0.112301 0.00814,0.167637 0,0 0,0.0016 0,0.0016 0,1.357373 -1.4241021,2.70498 -3.181851,3.009331 C 4.9427296,22.24178 3.517,21.387319 3.517,20.028319 c 0,-1.357373 1.4257296,-2.70498 3.181851,-3.007704 0.6607834,-0.113928 1.2759955,-0.06347 1.7854171,0.115556 V 4.7245108 h 0.076495 L 20.449981,2 v 13.983869 c 0.02116,0.102535 0.03255,0.206698 0.03255,0.310861 0,0 0,0 0,0.0016 0,1.134399 -1.191363,2.26066 -2.657782,2.512929 -1.468045,0.253898 -2.657781,-0.460595 -2.657781,-1.594994 -0.0016,-1.134399 1.188108,-2.26066 2.656154,-2.51293 z"
+     fill-rule="1"
+     id="path_0"
+     style="stroke-width:0.162755" />
+</svg>
