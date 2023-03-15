@@ -5,7 +5,7 @@
     box-sizing: border-box;
     background-color: #f0f2f5;
     width: 30vw;
-    height: 8.75vh;
+    height: 8.50vh;
     padding: 10px 16px;
 }
 
@@ -22,5 +22,5 @@
 .otherSvg {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }

@@ -3,7 +3,7 @@ import '../CSS/AsideSearch.css'
 const AsideSearch = () => {
   return (
     <div className='asideSearchDiv'>
-      jnxnzj
+      <div></div>
     </div>
   )
 }

@@ -15,7 +15,7 @@ body::before {
   content: "";
   background-color: #00a884;
   width: 100vw;
-  height: 20vh;
+  height: 17.5vh;
   position:absolute;
   top:0px;
   left:0px;
@@ -25,7 +25,7 @@ body::after {
   content: "";
   background-color:#d7dbdc;
   width: 100vw;
-  height: 80vh;
+  height: 82.5vh;
   position:absolute;
   bottom:0px;
   left:0px;
