@@ -1,5 +1,51 @@
 .asideSearchDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
     background-color: #ffff;
     width: 30vw;
     height: 6.5vh;
+    padding-left: 12px;
+}
+#searchDiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-sizing: border-box;
+    width: 90%;
+    height: 70%;
+    /* margin: 10px; */
+    background-color: #f0f2f5;
+    border-radius: 10px;
+    padding: 0px 32px 0px 65px;
+}
+#inputDiv {
+    box-sizing: border-box;
+    width: 100%;
+    color: gray;
+    border: none;
+}
+#inputDiv:focus-visible {
+    outline: none;
+}
+#searchIcon {
+    position: absolute;
+    left: 3%;
+    color: gray;
+    transition: transform 0.2s;
+}
+#filterIcon {
+    color: gray ;
+    margin: 0px auto;
+    
+}
+@keyframes searchAni {
+    from  {
+        transform: rotateX('angle');
+        transform: scaleX(5);
+    }
+    to {
+        transform: ro;
+    }
 }

@@ -1,0 +1,67 @@
+.asideContactProfileDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 73px;
+    background-color: #ffff;
+}
+.asideContactProfileDiv:hover {
+    background-color: #f0f2f5;
+}
+#profileDiv {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    height: 100%;
+    width: 100%;
+}
+#profileImgDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 77px;
+    height: 73px;
+    padding: 0px 13px 0px 15px;
+    
+}
+#profileImgDiv img {
+    border-radius: 50%;
+}
+#profileDetailsDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 366px;
+    height: 73px;
+    padding-right: 15px;
+    border-top: 1px solid rgb(219, 218, 218);
+}
+
+#nameAndDate, #messageAndIcons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+  }
